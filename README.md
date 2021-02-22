@@ -15,7 +15,7 @@ Traceback (most recent call last):
 <main>:1:in `<top (required)>': undefined method `text' for nil:NilClass (NoMethodError)
 ```
 
-# Requirements
+# Depencencies
 [Ruby](https://www.ruby-lang.org/en/)
 
 [Nokogiri](https://nokogiri.org/)
