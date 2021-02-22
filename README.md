@@ -4,7 +4,7 @@
 
 # Terminal-Dictionary
 
-Usage: Dictionary $query
+Usage: `Dictionary $query`
 
 # Requirements
 [Ruby](https://www.ruby-lang.org/en/)
