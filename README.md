@@ -5,6 +5,16 @@
 
 Usage: `Dictionary $query`
 
+If you get this error it means that isn't listed as a word:
+```
+Traceback (most recent call last):
+	4: from /sbin/nokogiri:23:in `<main>'
+	3: from /sbin/nokogiri:23:in `load'
+	2: from /usr/lib/ruby/gems/2.7.0/gems/nokogiri-1.11.1/bin/nokogiri:112:in `<top (required)>'
+	1: from /usr/lib/ruby/gems/2.7.0/gems/nokogiri-1.11.1/bin/nokogiri:112:in `eval'
+<main>:1:in `<top (required)>': undefined method `text' for nil:NilClass (NoMethodError)
+```
+
 # Requirements
 [Ruby](https://www.ruby-lang.org/en/)
 
