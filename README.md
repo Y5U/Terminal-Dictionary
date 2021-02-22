@@ -1,5 +1,5 @@
 <h1 align="center">Terminal Dictionary</h1>
-<p align="center">A simple CLI tool that scrapes [Thefreedictionary.com](https://www.thefreedictionary.com/) and returns definitions to words.</p>
+<p align="center">A simple CLI tool that scrapes https://www.thefreedictionary.com/ and returns definitions to words.</p>
 
 
 # Terminal-Dictionary
