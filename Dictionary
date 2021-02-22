@@ -1,0 +1,4 @@
+#!/bin/sh
+
+curl 'https://www.thefreedictionary.com/'$1'' -s | nokogiri -e 'puts $_.at_css("div.pseg").text'
+
