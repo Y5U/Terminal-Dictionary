@@ -32,3 +32,9 @@ $ git clone https://github.com/Yosuu69/Terminal-Dictionary
 $ cd Terminal-Dictionary
 $ sudo cp Dictionary /usr/bin
 ```
+
+# AUR
+Terminal Dictionary is available in the Arch User Repository as [terminal-dictionary-git](https://aur.archlinux.org/packages/terminal-dictionary-git/).
+```
+$ yay -S terminal-dictionary-git 
+```
